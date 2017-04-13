@@ -1,0 +1,3 @@
+[submodule "children/hello-word"]
+	path = children/hello-word
+	url = https://github.com/SmileLionLY/hello-word
